@@ -4,7 +4,7 @@ Aprendiendo esta maravilla
 
 ## 📱 Screenshot
 
-![calabozo](https://github.com/valerisvso/comicstore/blob/main/calabozo.jpg)
+![py](https://github.com/valerisvso/phyton/blob/master/Ejercicios/python.jpg)
 
 
 ## 📚 Technical Details
