@@ -8,8 +8,9 @@ Aprendiendo esta maravilla
 
 
 ## 📚 Technical Details
-```
+
 Phyton
+
 
 ## 🙋 Code by me. 
 @valerisvso
