@@ -1,4 +1,4 @@
-# Ejercicios Phyton
+# Ejercicios Python
 
 Aprendiendo esta maravilla
 
