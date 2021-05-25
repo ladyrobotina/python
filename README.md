@@ -9,7 +9,7 @@ Aprendiendo esta maravilla
 
 ## 📚 Technical Details
 
-Phyton
+Python
 
 
 ## 🙋 Code by me. 
